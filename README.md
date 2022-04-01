@@ -5,7 +5,7 @@ Sempre fui muito ligado a tecnologia, e gosto da área como um todo, mas como fi
 Nesse ano de 2022, comecei a estudar programação por conta própria, e rapidamente me direcionei ao Front-End, onde me identifiquei bastante, já que consigo usar boa parte dos meus conhecimentos em Design nessa área também.
 Tenho bastante facilidade ao aprendizado, sou bastante focado, organizado e objetivo, estou sempre buscando aprimorar minhas habilidades, estudando e praticando constantemente.
 
-Deixo aqui meu link do <a href"https://www.linkedin.com/in/gustavocmonteiro/">Linkedin</a>
+Deixo aqui meu link do <a href="https://www.linkedin.com/in/gustavocmonteiro/">Linkedin</a>
 
 <!--
 **GustavoCMonteiro/GustavoCMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
