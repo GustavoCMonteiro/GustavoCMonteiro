@@ -21,5 +21,6 @@ Possuo facilidade ao aprendizado, sou focado, organizado e objetivo, sempre busc
   <img height="30em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+ </a>
 </div>
 <br>
