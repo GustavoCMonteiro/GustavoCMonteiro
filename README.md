@@ -6,7 +6,7 @@ Nesse ano de 2022, comecei a estudar programação por conta própria, e rapidam
 Tenho bastante facilidade ao aprendizado, sou bastante focado, organizado e objetivo, estou sempre buscando aprimorar minhas habilidades, estudando e praticando constantemente.
 
 <div align="center">
-  <a href="https://github.com/GustavoCMonteiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocmonteiro&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
