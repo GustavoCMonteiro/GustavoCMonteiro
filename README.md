@@ -7,6 +7,6 @@ Tenho bastante facilidade ao aprendizado, sou bastante focado, organizado e obje
 
 <div align="center">
   <a href="https://github.com/GustavoCMonteiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCMonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCMonteiro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocmonteiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
