@@ -19,9 +19,9 @@ Possuo facilidade ao aprendizado, sou focado, organizado e objetivo, sempre busc
   <img height="30em" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+<br>
 
 
 
 
-
-  <a href="https://www.linkedin.com/in/gustavocmonteiro/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a align="end" href="https://www.linkedin.com/in/gustavocmonteiro/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
