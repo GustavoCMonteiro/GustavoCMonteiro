@@ -7,8 +7,8 @@ Possuo facilidade ao aprendizado, sou focado, organizado e objetivo, sempre busc
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCMonteiro&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCMonteiro&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoCMonteiro&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCMonteiro&layout=compact"/>
 </div>
 <br>
 <div align="center">
