@@ -8,4 +8,4 @@ Possuo facilidade ao aprendizado, sou focado, organizado e objetivo, sempre busc
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCMonteiro&layout=compact"/>
 </div>
 
-<img width="40em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img width="100em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
