@@ -23,5 +23,6 @@ Possuo facilidade ao aprendizado, sou focado, organizado e objetivo, sempre busc
 
 
 
-
-  <a align="end" href="https://www.linkedin.com/in/gustavocmonteiro/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div align="end">
+  <a href="https://www.linkedin.com/in/gustavocmonteiro/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"/></a>
+ </div>
