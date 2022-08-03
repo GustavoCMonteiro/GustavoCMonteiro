@@ -1,7 +1,10 @@
-## Olá me chamo **Gustavo Monteiro** sou Design de UX e UI e Desenvolvedor Front End!!
+## Olá me chamo **Gustavo Monteiro** sou Desenvolvedor Front End e Designer!!
 
-Sou formado em Comunicação Visual, e estou realizando diversos cursos na área de Front-End, para ingressar na área de Tecnologia. 
-Possuo facilidade ao aprendizado, sou focado, organizado e objetivo, sempre buscando aprimorar minhas habilidades, estudando e praticando constantemente.
+Sou formado em Comunicação Visual, trabalho com Design das mais diversas formas desde 2013, sempre buscando entregar um bom projeto, com uma ótima experiência de usuário.
+
+No momento estou buscando ingressar na área de Desenvolvedor Front-End, e para isso estou me especializando nas ferramentas utilizadas por tal profissional.
+
+Possuo facilidade ao aprendizado, estou muito motivado pelos estudos, e sou focado, organizado e objetivo, sempre buscando aprimorar minhas habilidades, estudando e praticando constantemente.
 <br>
 <br>
  <a href="https://www.linkedin.com/in/gustavocmonteiro/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"/></a>
